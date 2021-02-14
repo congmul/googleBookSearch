@@ -1,5 +1,5 @@
 import React, {useState} from "react";
-import Hero from "../components/Hero";
+import Header from "../components/Header";
 import Form from 'react-bootstrap/Form';
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
@@ -71,7 +71,7 @@ function Search() {
     
   return (
     <div>
-      <Hero></Hero>
+      <Header></Header>
         <Alert variant="success" style={alert.display}  onClose={() => (
           setAlert({
             title: "",
