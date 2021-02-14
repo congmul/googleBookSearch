@@ -16,7 +16,7 @@ npm i to set environment <br>
 
 Deploy:  <br>
 
-<img src = "" width="800">
+<img src = "" width="900">
 
 ## Installation 
 To install necessary dependencies, run the following command:
