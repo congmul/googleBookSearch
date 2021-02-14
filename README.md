@@ -9,7 +9,7 @@
 5. [Contributoring](#Contributoring)
 
 ## Description
-This app is employee directory with React. As a user, I want to be able to view my entire employee directory at once so that I have quick access to their information.
+This app is for searching books which a user is interested in from Google API
 
 ## Usage
 npm i to set environment <br>
