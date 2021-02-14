@@ -14,9 +14,9 @@ This app is for searching books which a user is interested in from Google API
 ## Usage
 npm i to set environment <br>
 
-Deploy:  <br>
+Deploy: https://google-searchbooks.herokuapp.com/ <br>
 
-<img src = "" width="900">
+<img src = "./operating02.gif" width="900">
 
 ## Installation 
 To install necessary dependencies, run the following command:
