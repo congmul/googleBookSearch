@@ -10,31 +10,40 @@ mongoose.connect(
 
 const bookSeed = [
     {
-        key: "random222222222",
-        title: "test2",
-        subtitle: "test2",
-        authors: "test2",
-        description: "test2",
-        image: "test2",
-        link: "test2"
+        key: "key01",
+        title: "title01",
+        subtitle: "subtitle01",
+        authors: "authors01",
+        description: "description01",
+        image: "image01",
+        link: "link01"
     },
     {
-        key: "random1111111111",
-        title: "test1",
-        subtitle: "test1",
-        authors: "test1",
-        description: "test1",
-        image: "test1",
-        link: "test1"
+        key: "key02",
+        title: "title02",
+        subtitle: "subtitle02",
+        authors: "authors02",
+        description: "description02",
+        image: "image02",
+        link: "link02"
     },
     {
-        key: "random333333333",
-        title: "test3",
-        subtitle: "test3",
-        authors: "test3",
-        description: "test3",
-        image: "test3",
-        link: "test3"
+        key: "key03",
+        title: "title03",
+        subtitle: "subtitle03",
+        authors: "authors03",
+        description: "description03",
+        image: "image03",
+        link: "link03"
+    },
+    {
+        key: "key04",
+        title: "title04",
+        subtitle: "subtitle04",
+        authors: "authors04",
+        description: "description04",
+        image: "image04",
+        link: "link04"
     }
 ];
 
