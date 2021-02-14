@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import Hero from "../components/Hero";
+import Header from "../components/Header";
 import API from "../utils/API";
 import Card from 'react-bootstrap/Card';
 import Row from 'react-bootstrap/Row';
@@ -61,7 +61,7 @@ function Saved() {
  
   return (
     <div>
-        <Hero></Hero>
+        <Header />
         <Alert variant="danger" style={alert.display}  onClose={() => (
           setAlert({
             title: "",
